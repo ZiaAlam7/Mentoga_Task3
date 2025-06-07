@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web Development Internship Task 3 - Developing TrendyShop an E-Commerce Product Listing Page
 
-## Getting Started
+- **Description**
+Design and develop an e-commerce product listing page for a fictional retailer, "TrendyShop," to display products with filtering and sorting, using React and a mock API for product data.
 
-First, run the development server:
+- **Objective**
+Develop skills in front-end development, API integration, and state management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Live Preview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 [Click here to view the live app](https://mentoga-task3.vercel.app/ )
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠 Tech Stack Used
 
-## Learn More
+- **JavaScript** – Language
+- **Next.js** – Full-stack React framework for SSR and routing
+- **React.js** – Component-based UI library
+- **TailwindCSS** – Utility-first CSS framework for styling
+- **MongoDB** – NoSQL database for backend data storage
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Showing items with name, price and image
+- Filtering Based on Categories (Male, Female and Items)
+- Sorting Based on Price Low to High, High to Low
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
